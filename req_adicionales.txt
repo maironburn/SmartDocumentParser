@@ -1,0 +1,5 @@
+#instalacion de poppler-utils
+apt install poppler-utils
+
+#tesseract ocr
+apt install tesseract-ocr tesseract-ocr-spa libtesseract-dev
